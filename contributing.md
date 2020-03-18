@@ -1,9 +1,5 @@
 # How to contribute
 
-I'm really glad you're reading this, because we need volunteer developers to help this project come to fruition.
-
-If you haven't already, come find us in IRC ([#opengovernment](irc://chat.freenode.net/opengovernment) on freenode). We want you working on things you're excited about.
-
 Here are some important resources:
 
   * [OpenGovernment for Developers](http://opengovernment.org/pages/developer) tells you where we are,
